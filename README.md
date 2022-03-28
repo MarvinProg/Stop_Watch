@@ -4,4 +4,4 @@ ___
 
 # Скриншот
 
-![Watch!](./img/Screenshot%20at%20Mar%2028%2017-26-52.png)
+![Watch!](./img/Screenshot_1.png)
